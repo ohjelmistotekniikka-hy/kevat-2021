@@ -38,7 +38,7 @@ Pisteet (yht 24) jakautuvat seuraavasti
 - Sovelluslogiikan kompleksisuus 3p
 - Ohjelman laajuus 4p
 - Ulkoisten kirjastojen hyödyntäminen 1p
-  - ks https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/maven.md#ulkoisten-kirjastojen-k%C3%A4ytt%C3%A4minen-mavenin-avulla
+  - ks [Ulkoiset kirjastot Mavenin avulla](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/maven.md#ulkoisten-kirjastojen-k%C3%A4ytt%C3%A4minen-mavenin-avulla)
 - Suorituskelpoinen jar-tiedosto 1p
   - Tiedosto generoitavissa tai löytyy repositoriosta _loppupalautus_-nimisestä releasesta
 - Koodin laatu 4+1p
