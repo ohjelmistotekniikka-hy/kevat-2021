@@ -1,6 +1,6 @@
 % Ohjelmistotekniikka
-% Matti Luukkainen, Riku Honkanen ja 7 ohjaajaa
-% 26.10.2020
+% Matti Luukkainen, Jussi Mäki-Kahra, Pekka Mäki-Mikola ja 9 ohjaajaa
+% 16.3.2021
 
 # Ohjelmistotekniikka
 
@@ -16,7 +16,7 @@
 
 . . .
 
-- Kurssimateriaali https://github.com/ohjelmistotekniikka-hy/syksy-2020
+- Kurssimateriaali https://github.com/ohjelmistotekniikka-hy/kevat-2021
 
 # Suoritusmuoto
 
@@ -29,7 +29,7 @@
 . . .
 
 - Harjoitustyö tulee tehdä kurssin aikataulujen puitteissa
-- Kesken jäänyttä harjoitustyötä ei voi jatkaa seuraavalla kurssilla (keväällä 2021)
+- Kesken jäänyttä harjoitustyötä ei voi jatkaa seuraavalla kurssilla (syksyllä 2021)
 - Muista siis varata riittävästi aikaa (10-15h viikossa) koko periodin ajaksi!
 
 # Luento, deadlinet ja ohjaus
