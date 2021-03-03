@@ -55,7 +55,7 @@ Arvostelussa kiinnitetään huomiota seuraaviin seikkoihin
 - Palautusrepositorioosi voi tehdä GitHub-issuieta, ks [ohje](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko5.md#issueiden-salliminen)
 - Repositorion README.md kunnossa
   - tiedosto on kurssin tämän vaiheen osalta relevantin sisällön suhteen samankaltainen kuin [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp) README.md, eli siellä on ainakin seuraavat
-    - harjoitustyön aiheen lyhyt kuvas
+    - harjoitustyön aiheen lyhyt kuvaus
     - linkit vaatimusmäärittelyyn, arkkitehtuuridokumenttiin ja tuntikirjanpitoon
     - linkki releaseen
     - ohjeet komentoriviltä suoritettaviin toimenpiteisiin (testaus, testiraportin suoritus, suoritettavan jarin generointi, checkstyletarkastuksen suorittaminen)
