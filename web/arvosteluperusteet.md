@@ -50,7 +50,7 @@ Pisteet (yht 24) jakautuvat seuraavasti
 - **Älä jätä sovellukseesi poiskommentoitua koodia**, tai koodia jota sovellus ei käytä (esim. refaktoroinnin myötä turhaksi muuttuneet metodit/luokat)
   - jos jätät, vähenevät koodin laadun pisteet -1 tai -2p riippuen kommentoidun/turhan koodin määrästä
 
-### Laajuus ja sovellusogiikan kompleksisuus
+### Laajuus ja sovelluslogiikan kompleksisuus
 
 - Miten laaja on laaja?
 - Kurssin [referenssisovellus](https://github.com/mluukkai/OtmTodoApp) olisi laajuudeltaan juuri ja juuri 2 pisteen arvoinen, sovelluslogiikaltaan se on aika suoraviivainen ja ansaitsisi vain yhden pisteen
