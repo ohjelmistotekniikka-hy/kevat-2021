@@ -8,7 +8,7 @@ Palautuksen deadline **ti 08.12. klo 23:59**.
 - Kannattaa pitää mielessä, että kurssin loppu alkaa lähestyä ja myös loppupalautuksen deadline.
 
   - Nyt kannattaa kerrata loppupalautuksen [arvosteluperusteet](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/arvosteluperusteet.md)
-  - Viimeiselläkin viikolla ohjelmaa ehtii vielä kasvattamaa, mutta myös dokumentoinnille kannattaa jättää aikaa
+  - Viimeiselläkin viikolla ohjelmaa ehtii vielä kasvattaa, mutta myös dokumentoinnille kannattaa jättää aikaa
 
   **HUOM! Saadaksesi harjoitustyöstä viikkokohtaiset pisteet, sovelluksen tulee toimia laitoksen koneella ja ohjaajien pitää pystyä se niiltä aukaisemaan!!** Esim. [Virtuaalisessatyöasemassa](https://vdi.helsinki.fi) voit testata tätä.
 
@@ -61,7 +61,7 @@ Arvostelussa kiinnitetään huomiota seuraaviin seikkoihin
   - Tuntikirjanpitoon ei merkitä laskareihin käytettyä aikaa
 - Repositorion README.md kunnossa
   - Tiedosto on kurssin tämän vaiheen osalta relevantin sisällön suhteen samankaltainen kuin [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp) README.md, eli se sisältää ainakin seuraavat
-    - harjoitustyön aiheen lyhyt kuvas
+    - harjoitustyön aiheen lyhyt kuvaus
     - linkit vaatimusmäärittelyyn, arkkitehtuuridokumenttiin, käyttöohjeeseen ja tuntikirjanpitoon
     - linkki releaseihin
     - ohjeet komentoriviltä suoritettaviin toimenpiteisiin (testaus, testiraportin suoritus, suoritettavan jarin generointi, checkstyletarkastuksen suorittaminen, JavaDocin generointi)
