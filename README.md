@@ -23,7 +23,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 - Kurssin ainoa luento ti 16.03. klo 12-14 etänä **[Linkki luennolle]**
 - Sovellus tehdään käyttämällä Javan versiota 11. [Asennusohjeet](https://www.mooc.fi/fi/installation/netbeans)
 - Kurssista on nyt myös olemassa betatestausvaiheessa oleva [Python-versio](https://github.com/ohjelmistotekniikka-hy/python-kevat-2021/blob/master/README.md)
-  - Python-version suortittaminen omalla vastuulla. Ohjelmoinnin perusteiden suorittaminen Pythonilla ei riitä esitiedoksi! Olio-ohjelmointi on syytä hallita
+  - Python-version suorittaminen omalla vastuulla. Ohjelmoinnin perusteiden suorittaminen Pythonilla ei riitä esitiedoksi! Olio-ohjelmointi on syytä hallita
 - Kurssin Telegram-kanava: [https://t.me/tktlotm](https://t.me/tktlotm)
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
 - Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan:
