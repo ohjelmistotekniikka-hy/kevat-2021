@@ -108,7 +108,7 @@ Palautuksen deadline ti 06.04. klo 23:59
 
 - Harjoitustyön koodin runko valmiina (2p)
   - katso tarkemmin [täältä](/tehtavat/harjoitustyo_viikko3.md)
-- Pajassa tehtävät tai omatoimiset [tehtävät]/tehtavat/viikko3.md) Luokka- ja sekvenssikaaviosta (1p)
+- Pajassa tehtävät tai omatoimiset [tehtävät](/tehtavat/viikko3.md) Luokka- ja sekvenssikaaviosta (1p)
 
 ### viikko 4
 
