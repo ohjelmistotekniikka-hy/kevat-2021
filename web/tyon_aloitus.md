@@ -10,7 +10,7 @@ Koko kurssin arvostelu perustuu pääasiassa harjoitustyöstä saataviin pisteis
 
 ## Harjoitustyön toimivuus
 
-- Koneiden konfiguraatioissa on eroja, ja tällä kurssilla ei riitä että hajoitustyössä tekemäsi sovellus toimii vain omalla koneellasi
+- Koneiden konfiguraatioissa on eroja, ja tällä kurssilla ei riitä että harjoitustyössä tekemäsi sovellus toimii vain omalla koneellasi
 
 - Harjoitustyösi pitää pystyä joka viikko suorittamaan, kääntämään ja testaamaan komentoriviltä käsin laitoksen Linux-koneilla (tai uusimmat päivitykset sisältävällä cubbli-linuxilla), muussa tapauksessa työtä ei tarkasteta ja menetät viikonpalautuksen pisteet.
 
