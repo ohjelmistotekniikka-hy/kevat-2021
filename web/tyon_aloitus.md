@@ -201,7 +201,7 @@ Jos työskentelet monella koneella niin huomioi seuraavat
 
 - GitHubissa oleva repositorion tulee olla kloonattuna kaikille koneille
 - Oletusarvoisesti kaikkien koneiden julkiset avaimet kannattaa olla määritelty GitHubiin
-- [oleelliset konfiguraatiot](https://github.com/mluukkai/Ohjelmistotekniikka2018/blob/master/tehtavat/viikko1.md#konfiguraatioita) kannattaa olla tehtynä kaikilla koneilla
+- [oleelliset konfiguraatiot](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/viikko1.md#konfiguraatioita) kannattaa olla tehtynä kaikilla koneilla
 - **TÄRKEÄÄ** aina kun lopetat työskentelyn koneella, pushaa muutokset githubiin
 - kun aloitat työskentelyn koneelta, pullaa muutokset githubista
 - jos (ja kun) törmäät seuraavaan virheeseen
