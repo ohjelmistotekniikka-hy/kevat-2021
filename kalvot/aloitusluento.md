@@ -479,7 +479,7 @@ Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hi
 
 . . .
 
-- Samaa ohjelmaa ei voi jatkaa seuraavalla kurssilla (eli keväällä 2021), vaan työ on aloitettava uudella aiheella alusta
+- Samaa ohjelmaa ei voi jatkaa seuraavalla kurssilla (eli syksyllä 2021), vaan työ on aloitettava uudella aiheella alusta
 
 . . .
 
@@ -661,7 +661,7 @@ Ohjelman pisteet jakautuvat seuraavasti
 
 # Harjoitustyön toimivuus
 
-- Koneiden konfiguraatioissa on eroja, ja tällä kurssilla _ei riitä_ että hajoitustyössä tekemäsi sovellus toimii vain omalla koneellasi
+- Koneiden konfiguraatioissa on eroja, ja tällä kurssilla _ei riitä_ että harjoitustyössä tekemäsi sovellus toimii vain omalla koneellasi
 
 . . .
 
