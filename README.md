@@ -6,17 +6,17 @@ _Kurssin nimi on muuttunut syksyllä 2018, tätä aiemmin kurssi tunnettiin nime
 
 Kurssilla tutustutaan ohjelmistokehityksen periaatteisiin sekä menetelmiin ja sovelletaan niitä toteuttamalla pienehkö harjoitustyö.
 
-Kurssin kolmella ensimmäisellä viikolla on muutama ohjauksessa tai omatoimisesti tehtävä harjoitustehtävä. Kurssin pääpainon muodostaa viikolla 2 aloitettava, itsenäisesti tehtävä harjoitustyö. Työtä on tarkoitus edistää pala palalta [viikoittaisten](https://github.com/ohjelmistotekniikka-hy/kevat-2021#aikataulu) tavoitteiden ohjaamana.
+Kurssin kolmella ensimmäisellä viikolla on muutama ohjauksessa tai omatoimisesti tehtävä harjoitustehtävä. Kurssin pääpainon muodostaa viikolla 2 aloitettava, itsenäisesti tehtävä harjoitustyö. Työtä on tarkoitus edistää pala palalta [viikoittaisten](#aikataulu) tavoitteiden ohjaamana.
 
-Kurssin arvostelu perustuu pääasiassa harjoitustyöstä saataviin pisteisiin. Osa pisteistä kertyy [aikatauluun](https://github.com/ohjelmistotekniikka-hy/kevat-2021#aikataulu) määriteltyjen viikoittaisten välitavoitteiden kautta, osa taas perustuu työn lopulliseen palautukseen.
+Kurssin arvostelu perustuu pääasiassa harjoitustyöstä saataviin pisteisiin. Osa pisteistä kertyy [aikatauluun](#aikataulu) määriteltyjen viikoittaisten välitavoitteiden kautta, osa taas perustuu työn lopulliseen palautukseen.
 
 Kurssilla ei ole koetta. Harjoitustyö tulee tehdä kurssin aikataulujen puitteissa. Kesken jäänyttä harjoitustyötä ei voi jatkaa seuraavalla kurssilla (keväällä 2021), joten **muista varata riittävästi aikaa (10-15h viikossa) koko periodin ajaksi!**
 
-Tarkemmat arvosteluperusteet [täällä](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/arvosteluperusteet.md).
+Tarkemmat arvosteluperusteet [täällä](./web/arvosteluperusteet.md).
 
 ## Kirjoitusvirheitä
 
-Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/typokorjaukset.md) olevan ohjeen mukaan.
+Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](./web/typokorjaukset.md) olevan ohjeen mukaan.
 
 ## Ajankohtaista
 
@@ -33,7 +33,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
   - Myös Telegramissa voi kysellä erityisesti arkisin klo 9-16
   - **Jos kysymys koskee koodia tai siinä esiintyviä virhetilanteita, kannattaa laittaa kysymyksen yhteyteen linkki omaan repositorioosi.** Ilman koodin näkemistä ongelman selvittäminen on hankalaa tai jopa mahdotonta.
   - Jos et halua kysyä kysymystä suoraan kurssin kanavalla, voit ottaa yhteyttä suoraan "telegram-vastaavaan" Kalle Ilvekseen. Pääasiassa kysymykset kannattaa kuitenkin esittää kanavalla, sillä samat ongelmat koskevat usein useampaakin opiskelijaa
-- Jos olet jo toteuttaunut isohkoja ohjelmistoja, on kurssi tietyissä tapauksissa mahdollista [hyväksilukea](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/hyvaksiluku.md)
+- Jos olet jo toteuttaunut isohkoja ohjelmistoja, on kurssi tietyissä tapauksissa mahdollista [hyväksilukea](./web/hyvaksiluku.md)
 
 ## Harjoitustyön toimivuus
 
@@ -47,29 +47,29 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ## Linkkejä
 
-- [Kurssimateriaali](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/materiaali.md)
+- [Kurssimateriaali](./web/materiaali.md)
 - Viikoittaiset palautukset
 
-  - viikko 1 [laskarit](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/viikko1.md)
-  - viikko 2 [laskarit](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/viikko2.md) ja [harjoitustyö](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko2.md)
-  - viikko 3 [laskarit](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/viikko3.md) ja [harjoitustyö](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko3.md)
-  - viikko 4 [harjoitustyö](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko4.md)
-  - viikko 5 [harjoitustyö](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko5.md)
-  - viikko 6 [harjoitustyö](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko6.md)
-  - viikko 7 [harjoitustyö](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko7.md)
+  - viikko 1 [laskarit](./tehtavat/viikko1.md)
+  - viikko 2 [laskarit](./tehtavat/viikko2.md) ja [harjoitustyö](./tehtavat/harjoitustyo_viikko2.md)
+  - viikko 3 [laskarit](./tehtavat/viikko3.md) ja [harjoitustyö](./tehtavat/harjoitustyo_viikko3.md)
+  - viikko 4 [harjoitustyö](./tehtavat/harjoitustyo_viikko4.md)
+  - viikko 5 [harjoitustyö](./tehtavat/harjoitustyo_viikko5.md)
+  - viikko 6 [harjoitustyö](./tehtavat/harjoitustyo_viikko6.md)
+  - viikko 7 [harjoitustyö](./tehtavat/harjoitustyo_viikko7.md)
 
 - Kurssin referenssisovellus [OtmTodoApp](https://github.com/mluukkai/OtmTodoApp)
   - Sovelluksen tarkoituksena on demonstroida erästä tapaa tehdä suurin piirtein täysiin pisteisiin riittävä dokumentaatio ja testaus projektillesi. Itse ohjelma on sen verran suppea, että saadaksesi kurssilta arvosanan 5 joudut tekemään hieman laajemman sovelluksen.
 - [Labtool](https://study.cs.helsinki.fi/labtool/courses/)
 - Ohjeita
   - Kaikki ohjeista eivät ole kurssin alussa vielä ajankohtaisia. Kaikkeen tärkeään tulee aikanaan linkki laskareihin tai harjoitustöiden viikkotavoitteisiin
-  - [Aiheideoita ja ohjeita työn harjoitustyön aloittamiseen](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/tyon_aloitus.md)
-  - [JUnit-ohje](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/junit.md)
-  - [Käyttöliittymän ja tietojen tallettamisen toteuttamiseen sekä sovelluksen konfigurointiin liittyviä vihjeitä](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/java.md)
-  - [Maven](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/maven.md)
-  - [Checkstyle](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/checkstyle.md)
-  - [JavaDoc](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/javadoc.md)
-  - [koodin laatu](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/koodin_laatuvaatimukset.md)
+  - [Aiheideoita ja ohjeita työn harjoitustyön aloittamiseen](./web/tyon_aloitus.md)
+  - [JUnit-ohje](./web/junit.md)
+  - [Käyttöliittymän ja tietojen tallettamisen toteuttamiseen sekä sovelluksen konfigurointiin liittyviä vihjeitä](./web/java.md)
+  - [Maven](./web/maven.md)
+  - [Checkstyle](./web/checkstyle.md)
+  - [JavaDoc](./web/javadoc.md)
+  - [koodin laatu](./web/koodin_laatuvaatimukset.md)
 - Työkaluja kaavioiden piirtoon
   - <http://yuml.me/> luokkakaaviot
   - <https://www.websequencediagrams.com/> sekvenssikaavioihin
