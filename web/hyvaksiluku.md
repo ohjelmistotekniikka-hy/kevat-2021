@@ -14,7 +14,7 @@ Jos haluat hyväksilukea kurssin, ota sähköpostilla yhteyttä kurssin vastuuop
 
 ### Koodin laatu
 
-- Sovelluksen koodin tulee noudottaa kurssilla määriteltyjä [laatuvaatimuksia](./koodin_laatuvaatimukset.md). Laatuvaatimuksia saattaa joutua soveltamaan ohjelmointikielestä riippuen
+- Sovelluksen koodin tulee noudattaa kurssilla määriteltyjä [laatuvaatimuksia](./koodin_laatuvaatimukset.md). Laatuvaatimuksia saattaa joutua soveltamaan ohjelmointikielestä riippuen
 - Sovelluksen koodin tulee olla suurimmilta osin kommenttien avulla dokumentoituta ohjelmointikielen standardien mukaisesti (esim. Javan [Javadoc](https://en.wikipedia.org/wiki/Javadoc)). Tämä tarkoittaa mm. luokkien, metodien ja funktioiden dokumentointia
 
 ### Versionhallinta ja repositorio
