@@ -18,6 +18,10 @@ Tarkemmat arvosteluperusteet [täällä](./web/arvosteluperusteet.md).
 
 Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu GitHubiin ja toimi [täällä](./web/typokorjaukset.md) olevan ohjeen mukaan.
 
+## Kieli
+
+Voit tehdä kurssin Javalla tai pythonilla. Tämä on Java-version kurssisivu. Python-version kurssisivu löytyy [täältä](https://github.com/ohjelmistotekniikka-hy/python-kevat-2021/blob/master/README.md)
+
 ## Ajankohtaista
 
 - Kurssin ainoa luento ti 16.3. klo 12-14 etänä [zoomissa](https://helsinki.zoom.us/j/67356041626)
