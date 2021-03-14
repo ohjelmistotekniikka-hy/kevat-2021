@@ -85,7 +85,7 @@ Voit tehdä kurssin Javalla tai Pythonilla. Tämä on Java-version kurssisivu. P
 
 Palautuksen deadline ti 23.03. klo 23:59
 
-- Tiistaina 16.03. klo 12-14 aloitustilaisuus [tallenne](https://youtu.be/JaM4hbns2P8)
+- Tiistaina 16.03. klo 12-14 aloitustilaisuus [zoomissa](https://helsinki.zoom.us/j/67356041626)
 - Komentorivi- ja Git-harjoittelu (2p)
   - Pajassa tehtävät tai omatoimiset [tehtävät](/tehtavat/viikko1.md)
 - Tehtävien palautus tapahtuu tekemällä repositorio githubiin ja rekisteröitymällä labtooliin
