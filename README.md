@@ -20,7 +20,7 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ## Kieli
 
-Voit tehdä kurssin Javalla tai pythonilla. Tämä on Java-version kurssisivu. Python-version kurssisivu löytyy [täältä](https://github.com/ohjelmistotekniikka-hy/python-kevat-2021/blob/master/README.md)
+Voit tehdä kurssin Javalla tai Pythonilla. Tämä on Java-version kurssisivu. Python-version kurssisivu löytyy [täältä](https://github.com/ohjelmistotekniikka-hy/python-kevat-2021/blob/master/README.md).
 
 ## Ajankohtaista
 
