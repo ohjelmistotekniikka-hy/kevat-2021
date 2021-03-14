@@ -79,12 +79,6 @@ Voit tehdä kurssin Javalla tai Pythonilla. Tämä on Java-version kurssisivu. P
   - <https://www.websequencediagrams.com/> sekvenssikaavioihin
   - <https://app.diagrams.net/> kaikki kaaviot
 
-## Pajaohjauksen aikatauluja
-
-- ti 14-16 (3.11. alkaen) [zoom]()
-- to 16-18 [zoom](https://helsinki.zoom.us/j/65601404745)
-- pe 12-14 [zoom](https://helsinki.zoom.us/j/66469543131?pwd=VGNGZ21KMXNyZ0FlKzErMW5OaS90Zz09)
-
 ## Aikataulu
 
 ### viikko 1
