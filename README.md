@@ -20,7 +20,8 @@ Jos huomaat tehtävissä tai muussa materiaalissa kirjoitusvirheitä, kirjaudu G
 
 ## Ajankohtaista
 
-- Kurssin ainoa luento ti 16.03. klo 12-14 etänä **[Linkki luennolle]**
+- Kurssin ainoa luento ti 16.03. klo 12-14 etänä [zoomissa](https://helsinki.zoom.us/j/67356041626)
+  - luento tallennetaan, linkki tulee tänne myöhemmn
 - Sovellus tehdään käyttämällä Javan versiota 11. [Asennusohjeet](https://www.mooc.fi/fi/installation/netbeans)
 - Kurssista on nyt myös olemassa betatestausvaiheessa oleva [Python-versio](https://github.com/ohjelmistotekniikka-hy/python-kevat-2021/blob/master/README.md)
   - Python-version suorittaminen omalla vastuulla. Ohjelmoinnin perusteiden suorittaminen Pythonilla ei riitä esitiedoksi! Olio-ohjelmointi on syytä hallita
