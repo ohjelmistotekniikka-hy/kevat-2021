@@ -19,7 +19,7 @@ Jos haluat hyväksilukea kurssin, ota sähköpostilla yhteyttä kurssin vastuuop
 
 ### Versionhallinta ja repositorio
 
-- Projektin lähdekoodin tulee olla [GitHub]-repositoriossa. Repositorio voi olla julkinen ja yksityinen. Jos repositorio on yksityinen, lisää sen kollaboraattoreiksi käyttäjät [Kaltsoon](https://github.com/Kaltsoon) ja [mluukkai](https://github.com/mluukkai)
+- Projektin lähdekoodin tulee olla GitHub-repositoriossa. Repositorio voi olla julkinen ja yksityinen. Jos repositorio on yksityinen, lisää sen kollaboraattoreiksi käyttäjät [Kaltsoon](https://github.com/Kaltsoon) ja [mluukkai](https://github.com/mluukkai)
 - Jos ohjelmistostasi on suoritettava binääri (esim. Javan `.jar`-tiedosto), lisää se [GitHub releaseen](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-releases-in-a-repository). Kerro repositorion `README.md`-tiedossa, mikä release pitää ladata ja miten sen binäärit suoritetaan
 - Lisää repositorioon `README.md`-tiedosto, joka on suurin piirtein kurssin [referenssisovelluksen](https://github.com/mluukkai/OtmTodoApp/blob/master/README.md) mukainen. Mukana tulee olla vähintään seuraavat asiat:
   - Lyhyt kuvaus projektista
