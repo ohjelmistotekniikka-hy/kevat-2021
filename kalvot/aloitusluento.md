@@ -16,7 +16,9 @@
 
 . . .
 
-- Kurssimateriaali https://github.com/ohjelmistotekniikka-hy/kevat-2021
+- Kurssimateriaali 
+  - https://github.com/ohjelmistotekniikka-hy/kevat-2021
+  - https://github.com/ohjelmistotekniikka-hy/python-kevat-2021
 
 # Suoritusmuoto
 
@@ -39,7 +41,7 @@
 
 . . .
 
-- Pajaa salissa zoomissa, ks kurssisivu
+- Pajaa zoomissa, ks kurssisivu
 - Myös kurssin Telegramissa voi kysellä apua ongelmatilanteissa
 
 # Arvosteluperusteet
@@ -52,6 +54,11 @@
   - Testaus 5p
   - Lopullinen ohjelma 24p
     - laajuus, ominaisuudet ja koodin laatu
+
+
+. . .
+
+
 - Arvosanaan 1 riittää 30 pistettä, arvosanaan 5 tarvitaan noin 55 pistettä.
 - Läpipääsyyn vaatimuksena on lisäksi vähintään 10 pistettä lopullisesta ohjelmasta
 
@@ -143,7 +150,7 @@ Katsotaan esimerkkinä Todo-sovelluksen vaatimusmäärittelyä
 - Ohjelmiston vaatimuksiin kuuluvat myös _toimintaympäristön rajoitteet_
 - Todo-sovellusta koskevat seuraavat rajoitteet:
   - ohjelmiston tulee toimia Linux- ja OSX-käyttöjärjestelmillä varustetuissa koneissa
-  - tuteutetaan Java FX -kirjaston avulla
+  - toteutetaan Java FX -kirjaston avulla
   - käyttäjien ja todojen tiedot talletetaan paikallisen koneen levylle
 
 . . .
@@ -231,7 +238,7 @@ Katsotaan esimerkkinä Todo-sovelluksen vaatimusmäärittelyä
 
 . . .
 
-- Tämän jälkeen suoritetaan useita, joiden aikana ohjelmistoa rakennetaan pala palalta eteenpäin
+- Tämän jälkeen suoritetaan useita _iteraatioita_, joiden aikana ohjelmistoa rakennetaan pala palalta eteenpäin
 - Kussakin iteraatiossa suunnitellaan ja toteutetaan valmiiksi pieni osa ohjelmiston vaatimuksista
 
 . . .
@@ -472,6 +479,12 @@ Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hi
 
 - Harjoitustyötä tehdään itsenäisesti, mutta tarjolla on pajaohjausta 
 
+# Älä plagioi
+
+- Kurssilla seurataan Helsingin yliopiston opintokäytäntöjä
+- Plagiarismi ja opintovilppi, eli esimerkiksi netissä olevien tai kaverilta saatujen vastausten kopiointi ja niiden palauttaminen omana työnä on kiellettyä
+- Todettu opintovilppi johtaa kurssisuorituksen hylkäämiseen ja toistuva opintovilppi voi johtaa opinto-oikeuden määräaikaiseen menettämiseen
+
 # Työn eteneminen
 
 - Edetään viikottaisten tavoitteiden mukaan
@@ -488,7 +501,7 @@ Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hi
 
 # Kieli
 
-- Harjoitustyön ohjelmointikieli on Java
+- Harjoitustyön ohjelmointikieli on Java tai Python
 - Ohjelmakoodin muuttujat, luokat ja metodit **kirjoitetaan englanniksi**
 - Dokumentaatio voidaan kirjoittaa joko suomeksi tai englanniksi
 
@@ -496,12 +509,6 @@ Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hi
 
 - Web-sovelluksia kurssilla ei sallita
   - Sovelluksessa voi toki olla webissä toimivia komponentteja, mutta sovelluksen käyttöliittymän tulee olla ns. desktop-sovellus
-
-. . .
-
-- Uutuus: Python-versio
-  - omalla vastuulla
-  - Käytetään olio-ohjelmointia, Python Ohpe **ei riitä** esitiedoksi
 
 # Ohjelman toteutus
 
@@ -517,7 +524,7 @@ Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hi
 
 . . .
 
-- Graafiseen käyttöliittymään suositellaan JavaFX:ää
+- Graafiseen käyttöliittymään suositellaan JavaFX:ää, Pythonilla tkinteriä tai Pygamea
 - Tiedon talletus joko tiedostoon tai tietokantaan suositeltavaa
 
 # Ohjelman toteutus
@@ -527,7 +534,7 @@ Mitä tapahtuu, jos maksukortin saldo on 2 euroa, eli vähemmän kuin lounaan hi
 
 . . .
 
-- Lopullisessa palautuksessa on oltava lähdekoodin lisäksi dokumentaatio ja automaattiset testit sekä jar-tiedosto
+- Lopullisessa palautuksessa on oltava lähdekoodin lisäksi dokumentaatio ja automaattiset testit sekä Java-sovelluksissa jar-tiedosto 
 
 . . .
 
