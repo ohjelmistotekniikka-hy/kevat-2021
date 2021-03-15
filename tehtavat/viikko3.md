@@ -14,8 +14,6 @@ Viikon palautuksista on tarjolla yksi kurssipiste. Pisteytys arvioidaan palautuk
 
 Huomaa, että tällä viikolla on myös harjoitustyöhön liittyviä [tavoitteita](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/tehtavat/harjoitustyo_viikko3.md)
 
-## Mallivastaukset
-
 ## Luokkakaaviot
 
 Kertaa luokkakaavioihin liittyvät asiat [kurssimateriaalista](https://github.com/ohjelmistotekniikka-hy/kevat-2021/blob/master/web/materiaali.md#luokkakaaviot).
