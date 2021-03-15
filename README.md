@@ -30,7 +30,7 @@ Voit tehdä kurssin Javalla tai Pythonilla. Tämä on Java-version kurssisivu. P
 - Kurssista on nyt myös olemassa [Python-versio](https://github.com/ohjelmistotekniikka-hy/python-kevat-2021/blob/master/README.md)
 - Kurssin Telegram-kanava: [https://t.me/tktlotm](https://t.me/tktlotm)
   - **Huom:** kaikki epäasialliset, halventavat ja jotain ihmisryhmää syrjivät kommentit kanavalla ovat kiellettyjä ja tälläisten kommenttien esittäjät poistetaan kanavalta
-- Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan:
+- Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan(22.3. alkaen):
     - ma 14-16  [zoom]()
     - ti 14-16  [zoom]()
     - torstai 13-15  [zoom]()
