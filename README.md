@@ -33,7 +33,7 @@ Voit tehdä kurssin Javalla tai Pythonilla. Tämä on Java-version kurssisivu. P
 - Jos tarvitset kurssiin liittyvää ohjausta, tule zoom-pajaan(22.3. alkaen):
     - ma 14-16  [zoom]()
     - ti 14-16  [zoom]()
-    - torstai 13-15  [zoom]()
+    - to 13-15  [zoom]()
   - Myös Telegramissa voi kysellä erityisesti arkisin klo 9-16
   - **Jos kysymys koskee koodia tai siinä esiintyviä virhetilanteita, kannattaa laittaa kysymyksen yhteyteen linkki omaan repositorioosi.** Ilman koodin näkemistä ongelman selvittäminen on hankalaa tai jopa mahdotonta.
   - Jos et halua kysyä kysymystä suoraan kurssin kanavalla, voit ottaa yhteyttä suoraan "telegram-vastaavaan" Kalle Ilvekseen. Pääasiassa kysymykset kannattaa kuitenkin esittää kanavalla, sillä samat ongelmat koskevat usein useampaakin opiskelijaa
